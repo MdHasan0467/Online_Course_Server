@@ -1,10 +1,10 @@
 [
 	{
 		"id": 100,
-		"picture": "https://media.sketchfab.com/models/44d992bf56e244448e9ee5b4da083287/thumbnails/4633e1b55d804c05a0e19502dc3c0356/b7a751b526eb40b487f4d92be28d62d6.jpeg",
+		"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
 		"course fee": 4500,
-		"name": "Python",
-		"details": "In the world of programming, Python is known as one of the most popular and fastest-growing programming languages. It can be defined as a high-level, interpreted, object-oriented scripting language, and a general-purpose language. There are various programming languages in the modern IT market space, but only Python has become quite widespread, why so? This is a fact, and a question raised by many people around the world."
+		"name": "React",
+		"details": "The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript."
 	},
 	{
 		"id": 101,
