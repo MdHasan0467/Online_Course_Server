@@ -1,43 +1,43 @@
 [
 	{
 		"id": 100,
-		"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
-		"course fee": 4500,
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
+		"course_fee": 4500,
 		"name": "React",
 		"details": "The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript."
 	},
 	{
 		"id": 101,
-		"picture": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210322182301/PHP-Tutorial1.png",
-		"course fee": 5000,
+		"image": "https://embed-ssl.wistia.com/deliveries/acab484c8b01db6a422928057ac799ba.jpg",
+		"course_fee": 5000,
 		"name": "PHP",
 		"details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming."
 	},
 	{
 		"id": 102,
-		"picture": "https://media.sketchfab.com/models/1b277fc32bbc451fa6f40e298996ba91/thumbnails/1c9c06b1fa3c4aaaa94a70bc7bfc3c7e/d369fbc48d5b479bb657791e4026ca34.jpeg",
-		"course fee": 3500,
+		"image": "https://media.sketchfab.com/models/1b277fc32bbc451fa6f40e298996ba91/thumbnails/1c9c06b1fa3c4aaaa94a70bc7bfc3c7e/d369fbc48d5b479bb657791e4026ca34.jpeg",
+		"course_fee": 3500,
 		"name": "C++",
 		"details": "C++ is a middle-level programming language developed by Bjarne Stroustrup starting in 1979 at Bell Labs. C++ runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX. This C++ tutorial adopts a simple and practical approach to describe the concepts of C++ for beginners to advanded software engineers."
 	},
 	{
 		"id": 103,
-		"picture": "https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png",
-		"course fee": 4500,
+		"image": "https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png",
+		"course_fee": 4500,
 		"name": "JAVA",
 		"details": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let programmers write once, run anywhere (WORA),[17] meaning that compiled Java code can run on all platforms that support Java without the need to recompile"
 	},
 	{
 		"id": 104,
-		"picture": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
-		"course fee": 5500,
+		"image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+		"course_fee": 5500,
 		"name": "JavaScript",
 		"details": "JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user."
 	},
 	{
 		"id": 105,
-		"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png",
-		"course fee": 6500,
+		"image": "https://w7.pngwing.com/pngs/535/618/png-transparent-ruby-on-rails-computer-programming-programming-language-ruby-angle-rectangle-logo.png",
+		"course_fee": 6500,
 		"name": "Ruby",
 		"details": "Ruby is an interpreted, high-level, general-purpose programming language which supports multiple programming paradigms. It was designed with an emphasis on programming productivity and simplicity. In Ruby, everything is an object, including primitive data types. It was developed in the mid-1990s by Yukihiro Matsumoto in Japan."
 	}
